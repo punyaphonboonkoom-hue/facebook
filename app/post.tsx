@@ -20,6 +20,7 @@ export default function PostScreen() {
         source={{ uri: image }}
         style={styles.image}
         resizeMode="contain"
+        
       />
     </View>
   );
